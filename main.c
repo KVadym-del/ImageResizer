@@ -59,7 +59,7 @@ int main(int argc, char** argv)
 void print_welcome(void)
 {
 	printf("Image resizer!\n");
-	printf("(Image path) ");
+	printf("(Input path) ");
 	printf("(Width) ");
 	printf("(Height) ");
 	printf("(Output path)");
